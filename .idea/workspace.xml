@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a36999d-9a26-4e04-8138-28fc727de75a" name="변경" comment="20220511">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/11021.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2741.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2742.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10871.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10952.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/11022.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2438.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2439.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" afterDir="false" />
     </list>
@@ -45,7 +47,21 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin._11021Kt">
+  <component name="RunManager" selected="Kotlin._10952Kt">
+    <configuration name="_10871Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10871Kt" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10952Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10952Kt" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_11021Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_11021Kt" />
       <module name="baekjoon" />
@@ -53,29 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_15552Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15552Kt" />
+    <configuration name="_2438Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2438Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2741Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2741Kt" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_2742Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2742Kt" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_8393Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8393Kt" />
+    <configuration name="_2439Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2439Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._10952Kt" />
+        <item itemvalue="Kotlin._10871Kt" />
+        <item itemvalue="Kotlin._2439Kt" />
+        <item itemvalue="Kotlin._2438Kt" />
         <item itemvalue="Kotlin._11021Kt" />
-        <item itemvalue="Kotlin._2742Kt" />
-        <item itemvalue="Kotlin._2741Kt" />
-        <item itemvalue="Kotlin._15552Kt" />
-        <item itemvalue="Kotlin._8393Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652252711754</updated>
-      <workItem from="1652252713104" duration="12961000" />
+      <workItem from="1652252713104" duration="15675000" />
     </task>
     <task id="LOCAL-00001" summary="20220511">
       <created>1652253228115</created>
