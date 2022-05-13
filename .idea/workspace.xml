@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a36999d-9a26-4e04-8138-28fc727de75a" name="변경" comment="20220511">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10951.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1110.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10818.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1546.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2562.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2577.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/3052.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10952Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/_10952Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,47 +38,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yunseokgyu/Documents/baekjoon&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin._1110Kt">
-    <configuration name="_10871Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10871Kt" />
+}</component>
+  <component name="RunManager" selected="Kotlin._1546Kt">
+    <configuration name="_10818Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10818Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10951Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10951Kt" />
+    <configuration name="_1546Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1546Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10952Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10952Kt" />
+    <configuration name="_2562Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2562Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1110Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1110Kt" />
+    <configuration name="_2577Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2577Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2439Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2439Kt" />
+    <configuration name="_3052Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3052Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._1110Kt" />
-        <item itemvalue="Kotlin._10951Kt" />
-        <item itemvalue="Kotlin._10952Kt" />
-        <item itemvalue="Kotlin._10871Kt" />
-        <item itemvalue="Kotlin._2439Kt" />
+        <item itemvalue="Kotlin._1546Kt" />
+        <item itemvalue="Kotlin._3052Kt" />
+        <item itemvalue="Kotlin._2577Kt" />
+        <item itemvalue="Kotlin._2562Kt" />
+        <item itemvalue="Kotlin._10818Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +104,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652252711754</updated>
-      <workItem from="1652252713104" duration="19911000" />
+      <workItem from="1652252713104" duration="22688000" />
+      <workItem from="1652352820042" duration="4207000" />
+      <workItem from="1652451335893" duration="3528000" />
     </task>
     <task id="LOCAL-00001" summary="20220511">
       <created>1652253228115</created>
@@ -127,6 +134,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/baekjoon" />
+    </ignored-roots>
     <MESSAGE value="20220511" />
     <option name="LAST_COMMIT_MESSAGE" value="20220511" />
   </component>
