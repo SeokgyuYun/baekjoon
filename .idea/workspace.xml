@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a36999d-9a26-4e04-8138-28fc727de75a" name="변경" comment="20220511">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1002.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1009.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1002Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/_1002Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2908Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/_2908Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +47,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._1002Kt">
+  <component name="RunManager" selected="Kotlin._1009Kt">
     <configuration name="_1002Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1002Kt" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1009Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1009Kt" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2675Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2675Kt" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_2908Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_2908Kt" />
       <module name="baekjoon" />
@@ -82,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1009Kt" />
         <item itemvalue="Kotlin._1002Kt" />
         <item itemvalue="Kotlin._2908Kt" />
         <item itemvalue="Kotlin._1152Kt" />
         <item itemvalue="Kotlin._1157Kt" />
-        <item itemvalue="Kotlin._2675Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +107,7 @@
       <workItem from="1652506674817" duration="1923000" />
       <workItem from="1652508756008" duration="4267000" />
       <workItem from="1652538572393" duration="5370000" />
+      <workItem from="1665807274135" duration="1619000" />
     </task>
     <task id="LOCAL-00001" summary="20220511">
       <created>1652253228115</created>
