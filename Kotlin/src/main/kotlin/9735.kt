@@ -19,7 +19,8 @@ fun main() {
             c = b1 + (b * x)
             d = c1 + (c * x)
             if (c.pow(2) - 4 * b * d == 0.0) {
-                println(-c / (2 * b))
+                var list = listOf(x, (-c) / (2 * b))
+                println("${list[0]} ${list[1]}")
             } else {
                 val x1 = (-c - sqrt(c.pow(2) - 4 * b * d)) / (2 * b)
                 val x2 = (-c + sqrt(c.pow(2) - 4 * b * d)) / (2 * b)
