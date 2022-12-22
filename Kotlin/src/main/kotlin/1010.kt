@@ -1,22 +1,21 @@
 import java.util.Scanner
 
+val arr = Array(30) { Array(30) {0} }
 fun main() {
     val sc = Scanner(System.`in`)
     val t = sc.nextInt()
     for (i in 0 until t) {
         val n = sc.nextInt()
         val m = sc.nextInt()
-        println(nCr(n, m))
+        println(nCr(m, n))
     }
 }
-fun fac(n: Int): Int {
-    var result = 1
-    for (i in 1..n) {
-        result *= i
+fun nCr(n: Int, r: Int): Int {
+    if (arr[n][r] > 0) return arr[n][r]
+    if (n == r || r == 0) {
+        arr[n][r] = 1
+        return arr[n][r]
     }
-    return result
+    arr[n][r] =  nCr(n - 1, r - 1) + nCr(n - 1, r)
+    return arr[n][r]
 }
-
-fun nPr(n: Int, r: Int) = fac(n) / fac(n-r)
-
-fun nCr(n: Int, r: Int) = nPr(n, r) / fac(r)
