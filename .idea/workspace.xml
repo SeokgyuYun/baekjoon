@@ -5,128 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a36999d-9a26-4e04-8138-28fc727de75a" name="변경" comment="20220511">
+      <change afterPath="$PROJECT_DIR$/Kotlin/out/production/Kotlin/_6588Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/src/main/kotlin/6588.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1000Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1001Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1002Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1009Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1010Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10171Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10430Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10718Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10809Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10818Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10869Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10871Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10872Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10926Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10950Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10951Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10952Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_10998Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_11021Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_11022Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1110Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1152Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1157Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_11654Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_11720Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1330Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_14681Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_1546Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_15552Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_18108Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_23048Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2438Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2439Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_24479Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2480Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_24913Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_25083Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2525Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_25427Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2557Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2562Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_25756Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2577Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2588Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_26215Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2675Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2702Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2739Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2741Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2742Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2753Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2884Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_2908Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_3052Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_4344Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_8393Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_8958Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/_9498Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1000.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1001.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1002.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1009.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1010.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10171.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10430.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10718.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10809.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10818.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10869.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10871.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10872.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10926.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10950.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10951.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10952.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10998.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11021.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11022.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1110.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1152.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1157.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11654.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11720.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1330.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/14681.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1546.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/15552.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/18108.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/23048.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2438.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2439.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/24479.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2480.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/24913.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/25083.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2525.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/25427.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2557.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2562.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/25756.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2577.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2588.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/26215.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2675.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2702.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2739.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2741.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2742.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2753.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2884.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2908.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3052.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4344.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/8393.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/8958.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/9498.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,6 +132,7 @@
       <workItem from="1671549226731" duration="3000" />
       <workItem from="1671549236728" duration="14000" />
       <workItem from="1671549290468" duration="7000" />
+      <workItem from="1672305730221" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="20220511">
       <created>1652253228115</created>
