@@ -1,44 +1,43 @@
-import java.util.Scanner
-import kotlin.math.pow
+import java.util.*
+import kotlin.math.abs
 import kotlin.math.sqrt
 
-fun main() {
-    val sc = Scanner(System.`in`)
-    var n = sc.nextInt()
-    for (i in 0 until n) {
-        var a = sc.nextInt().toDouble()
-        var b = sc.nextInt().toDouble()
-        var c = sc.nextInt().toDouble()
-        var d = sc.nextInt().toDouble()
-        val x = find(a, b, c, d)
-        if (x == 0.0) println(x)
-        else {
-            val b1 = b
-            val c1 = c
-            b = a
-            c = b1 + (b * x)
-            d = c1 + (c * x)
-            if (c.pow(2) - 4 * b * d == 0.0) {
-                var list = listOf(x, (-c) / (2 * b))
-                println("${list[0]} ${list[1]}")
-            } else {
-                val x1 = (-c - sqrt(c.pow(2) - 4 * b * d)) / (2 * b)
-                val x2 = (-c + sqrt(c.pow(2) - 4 * b * d)) / (2 * b)
-                var list = listOf(x, x1, x2)
-                list = list.sorted()
-                println("${list[0]} ${list[1]} ${list[2]}")
-            }
+fun main() = with(Scanner(System.`in`)) {
+    for (i in 0 until nextInt()) {
+        val a = nextLong()
+        val b = nextLong()
+        val c = nextLong()
+        val d = nextLong()
+        val x = mutableSetOf<Double>()
+        val x1 = find(a, b, c, d)
+        val A = a
+        val B = b + A * x1
+        val C = c + B * x1
+        val D = B * B - 4 * A * C
+        if (D < 0) x.add(x1)
+        else if (D > 0) {
+            val x2 = (-B + sqrt(B * B - 4 * A * C)) / (2 * A)
+            val x3 = (-B - sqrt(B * B - 4 * A * C)) / (2 * A)
+            x.add(x1)
+            x.add(x2)
+            x.add(x3)
         }
+        else {
+            val x2 = -B / (2 * A) + 0.0
+            x.add(x1)
+            x.add(x2)
+        }
+        x.sorted().forEach { print("$it ") }
+        println()
     }
 }
 
-fun find(a: Double, b: Double, c: Double, d:Double): Double {
-    var x = 0.0
-    var y = 0.0
-    while (true) {
-        if ((a * x.pow(3) + b * x.pow(2) + c * x + d).toInt() == 0) return x
-        else if ((a * y.pow(3) + b * y.pow(2) + c * y + d).toInt() == 0) return y
-        x++
-        y--
+fun find(a: Long, b: Long, c: Long, d:Long): Double {
+    for (i in 1..abs(d)) {
+        if (d % i == 0L) {
+            if (a * i * i * i + b * i * i + c * i + d == 0L) return i.toDouble()
+            else if (-a * i * i * i + b * i * i -c * i + d == 0L) return -i.toDouble()
+        }
     }
+    return 0.0
 }
