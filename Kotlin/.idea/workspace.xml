@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c2925b1-b935-4a38-ba20-a95b6a470e15" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2164.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2798.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._2164Kt">
+  <component name="RunManager" selected="Kotlin._2798Kt">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Kotlin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,13 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1019Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1019Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_11050Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_11050Kt" />
       <module name="kotlin" />
@@ -161,6 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_2798Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2798Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Kotlin" />
       <method v="2">
@@ -176,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2798Kt" />
         <item itemvalue="Kotlin._2164Kt" />
         <item itemvalue="Kotlin._1018Kt" />
         <item itemvalue="Kotlin._11050Kt" />
         <item itemvalue="Kotlin._1850Kt" />
-        <item itemvalue="Kotlin._1019Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +206,8 @@
       <workItem from="1682486693242" duration="1000" />
       <workItem from="1686448544358" duration="6604000" />
       <workItem from="1686524235208" duration="958000" />
+      <workItem from="1686565474134" duration="1172000" />
+      <workItem from="1686613429495" duration="4846000" />
     </task>
     <servers />
   </component>
