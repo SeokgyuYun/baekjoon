@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c2925b1-b935-4a38-ba20-a95b6a470e15" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2798.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10814.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,22 +29,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yunseokgyu/study/baekjoon/kotlin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;trusted.hosts&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yunseokgyu/study/baekjoon/kotlin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "trusted.hosts",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin._2798Kt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin._10814Kt">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Kotlin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,15 +135,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11050Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11050Kt" />
+    <configuration name="_10814Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10814Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1850Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1850Kt" />
+    <configuration name="_11050Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11050Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._10814Kt" />
         <item itemvalue="Kotlin._2798Kt" />
         <item itemvalue="Kotlin._2164Kt" />
         <item itemvalue="Kotlin._1018Kt" />
         <item itemvalue="Kotlin._11050Kt" />
-        <item itemvalue="Kotlin._1850Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +210,9 @@
       <workItem from="1686448544358" duration="6604000" />
       <workItem from="1686524235208" duration="958000" />
       <workItem from="1686565474134" duration="1172000" />
-      <workItem from="1686613429495" duration="4846000" />
+      <workItem from="1686613429495" duration="5068000" />
+      <workItem from="1686698837080" duration="11000" />
+      <workItem from="1686698917309" duration="4244000" />
     </task>
     <servers />
   </component>
