@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c2925b1-b935-4a38-ba20-a95b6a470e15" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1436.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._2231Kt">
+  <component name="RunManager" selected="Kotlin._1436Kt">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Kotlin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,15 +149,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2231Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2231Kt" />
+    <configuration name="_1436Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1436Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2798Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2798Kt" />
+    <configuration name="_2231Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2231Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1436Kt" />
         <item itemvalue="Kotlin._2231Kt" />
         <item itemvalue="Kotlin._11650Kt" />
         <item itemvalue="Kotlin._10816Kt" />
         <item itemvalue="Kotlin._10814Kt" />
-        <item itemvalue="Kotlin._2798Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +218,8 @@
       <workItem from="1686871701538" duration="2000" />
       <workItem from="1687005751669" duration="1319000" />
       <workItem from="1687059027103" duration="164000" />
-      <workItem from="1687096643263" duration="2085000" />
+      <workItem from="1687096643263" duration="2710000" />
+      <workItem from="1687136181205" duration="319000" />
     </task>
     <servers />
   </component>
